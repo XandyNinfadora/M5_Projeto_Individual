@@ -20,9 +20,9 @@ Aqui está uma amostra de como o projeto está funcionando.
 <hr>
 
 ## Dependências utilizadas
-- Node.js;
 - Chalk;
 - Readline-sync;
+- Nodemon;
 
 <hr>
 
