@@ -15,7 +15,7 @@ O objetivo do projeto é fazer uma aplicação na qual guardará uma lista de pr
 ## Funcionamento da aplicação
 Aqui está uma amostra de como o projeto está funcionando.
 
-<img src="aplicação.png" width="500px"/>
+<img src="aplicação.png" width="800px"/>
 
 <hr>
 
