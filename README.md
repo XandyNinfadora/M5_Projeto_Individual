@@ -1,1 +1,29 @@
-# Projeto_Individual_M5
+# Quinto projeto individual - Armazenador de propriedades do CSS
+O objetivo do projeto é fazer uma aplicação na qual guardaria uma lista de propriedades do css, na qual ao digitar "SAIR" teria que finalizar o processo e mostrar toda a lista em ordem alfabética.
+
+<hr>
+<h3> Como rodar o projeto:</h3>
+<h4> Você pode clonar o projeto e rodá-lo localmente seguindo os passos a seguir</h4>
+<ol>
+<li> Comece com o git clone no link https://github.com/XandyNinfadora/Projeto_Individual_M5 para a clonagem do mesmo </li>
+<li> No terminal, npm install para a instalação das dependências do projeto </li>
+<li> Ainda no terminal, node pjindividual.js para rodar o projeto no próprio terminal </li>
+</ol>
+
+<hr>
+
+## Funcionamento da aplicação
+Aqui está uma amostra de como o projeto está funcionando.
+
+<img src="aplicação.png" width="500px"/>
+
+<hr>
+
+## Dependências utilizadas
+- Node.js;
+- Chalk;
+- Readline-sync;
+
+<hr>
+
+<br>
