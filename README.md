@@ -1,5 +1,5 @@
 # Quinto projeto individual - Armazenador de propriedades do CSS
-O objetivo do projeto é fazer uma aplicação na qual guardaria uma lista de propriedades do css, na qual ao digitar "SAIR" teria que finalizar o processo e mostrar toda a lista em ordem alfabética.
+O objetivo do projeto é fazer uma aplicação na qual guardará uma lista de propriedades do css. Enquanto a palavra "SAIR" não for digitada, irá guardar tudo em uma lista que após essa palavra ser digitada, dará finalização ao projeto e mostrará tudo que foi armazenado em ordem alfabética.
 
 <hr>
 <h3> Como rodar o projeto:</h3>
